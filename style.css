@@ -1,0 +1,70 @@
+
+
+body{
+    text-align: center;
+    background: url(bg-img.jpg);
+    background-size: cover;
+}
+
+h1{
+    font-family: 'Press Start 2P', cursive;
+    font-size: 3rem;
+    color: #e92660;
+}
+
+h2 {
+    font-family: cursive;
+    font-size: 3rem;
+    margin:  3%;
+    color: #faf8f5;
+  }
+
+
+.btn{
+    height: 120px;
+    width: 120px;
+    border-radius: 20%;
+    border: 10px solid black;
+    margin: 2.5rem;
+}
+
+.btnContainer{
+    display: flex;
+    justify-content: center;
+
+}
+
+.red{
+    background-color: #d95980;
+    transition: background-color 0.7s;
+}
+
+
+.green{
+    background-color: #f3e035;
+    transition: background-color 0.7s;
+}
+
+.yellow{
+    background-color: #f99b45;
+    transition: background-color 0.7s;
+}
+
+.purple{
+    background-color: #819ff9;
+    transition: background-color 0.7s;
+}
+
+.flash {
+    background-color: white;
+}
+
+.userFlash{
+    background-color: green;
+}
+
+
+
+
+
+
